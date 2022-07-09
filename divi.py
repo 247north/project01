@@ -1,14 +1,3 @@
-Divadarsan
-jbjhbvs
-mcieybgwbgr
-ncisacauetdf
-hbafejgrnege
-hktfdv
-ncioreooqpe
-133
-26
-
-65
-5567
-4899
-455
+a=10
+b=32
+(a+b)
