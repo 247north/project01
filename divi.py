@@ -1,14 +1,5 @@
-Divadarsan
-jbjhbvs
-mcieybgwbgr
-ncisacauetdf
-hbafejgrnege
-hktfdv
-ncioreooqpe
-133
-26
-
-65
-5567
-4899
-455
+a = 13
+b = 43
+c =(a + b)
+a= 16
+b = 43
